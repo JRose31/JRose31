@@ -3,4 +3,5 @@
 
 ---
 
-Welcome! 
+#### Welcome To My Work!
+Curiousity and a Python programming skillset set the foundation for the jounrey I'm on. Realizing the mass amount of groundbreaking discoveries that potentially lay hidden in some form of data, I decided I wanted to be a part of it!
