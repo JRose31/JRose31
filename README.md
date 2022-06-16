@@ -1,6 +1,6 @@
 ### Jamaine D Roseborough Jr.
 *Junior Data Scientist | Python Programmer | USMC Veteran*
-# I changed something again!
+<img src='images/allwork.gif' alt="banner"></img>
 ---
 
 #### Welcome To My Work!
