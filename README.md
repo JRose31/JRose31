@@ -1,6 +1,6 @@
 ## Jamaine Roseborough
 ### Data Scientist, Developer, & Mentor<br>
-<img  src='images/allwork.gif'  alt="banner"></img>
+<img  src='images/brain.gif'  alt="banner"></img>
 
 ### Interests
  - Applied AI in Neuroscience & Education
@@ -9,8 +9,8 @@
 	 - Make learning technical concepts intuitive
 
 ### Languages & Frameworks
-**Main:** Python $\cdot$ Tensorflow $\cdot$ OpenCV $\cdot$ SKLearn $\cdot$ Django $\cdot$ Flask $\cdot$ SQL $\cdot$ ROS 
-**Familiar:** HTML $\cdot$ CSS $\cdot$ JavaScript
+**Main:** Python  $\cdot$  Tensorflow  $\cdot$  OpenCV  $\cdot$  SKLearn  $\cdot$  Django  $\cdot$ Flask  $\cdot$  SQL  $\cdot$  ROS <br>
+**Familiar:** HTML  $\cdot$  CSS  $\cdot$  JavaScript
 
 <br>
 
