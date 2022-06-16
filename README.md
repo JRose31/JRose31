@@ -9,8 +9,8 @@
 	 - Make learning technical concepts intuitive
 
 ### Languages & Frameworks
-**Main:** Python  $\cdot$  Tensorflow  $\cdot$  OpenCV  $\cdot$  SKLearn  $\cdot$  Django  $\cdot$ Flask  $\cdot$  SQL  $\cdot$  ROS <br>
-**Familiar:** HTML  $\cdot$  CSS  $\cdot$  JavaScript
+**Main:** Python | Tensorflow | OpenCV | SKLearn | Django | Flask | SQL | ROS <br>
+**Familiar:** HTML | CSS | JavaScript
 
 <br>
 
