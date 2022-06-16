@@ -1,7 +1,17 @@
-### Jamaine D Roseborough Jr.
-*Junior Data Scientist | Python Programmer | USMC Veteran*
-# I changed something again!
----
+## Jamaine Roseborough
+### Data Scientist, Developer, & Mentor<br>
+<img  src='images/allwork.gif'  alt="banner"></img>
 
-#### Welcome To My Work!
-Curiousity and a Python programming skillset set the foundation for the jounrey I'm on. Realizing the mass amount of groundbreaking discoveries that potentially lay hidden in some form of data, I decided I wanted to be a part of it!
+### Interests
+ - Applied AI in Neuroscience & Education
+ - Development of software aimed to:
+	 - Increase technical literacy
+	 - Make learning technical concepts intuitive
+
+### Languages & Frameworks
+**Main:** Python $\cdot$ Tensorflow $\cdot$ OpenCV $\cdot$ SKLearn $\cdot$ Django $\cdot$ Flask $\cdot$ SQL $\cdot$ ROS 
+**Familiar:** HTML $\cdot$ CSS $\cdot$ JavaScript
+
+<br>
+
+> Written with [StackEdit](https://stackedit.io/).
