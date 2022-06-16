@@ -1,6 +1,6 @@
-## Jamaine Roseborough
-### Data Scientist, Developer, & Mentor<br>
-<img  src='images/brain.gif'  alt="banner" width="200"></img>
+# Jamaine Roseborough
+## Data Scientist, Developer, & Mentor<br>
+<img  src='images/brain.gif'  alt="banner" width="150"></img>
 
 ### Interests
  - Applied AI in Neuroscience & Education
